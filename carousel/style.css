@@ -1,0 +1,17 @@
+.caraosel-item img {
+    height: 600px;
+    object-fit: cover;
+}
+
+.caraousel-caption h5 {
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0.5)
+}
+
+.carousel-caption p {
+    font-size: 1.25rem;
+}
+
+.container {
+    max-width: 540px;
+}
